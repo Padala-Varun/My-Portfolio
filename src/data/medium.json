@@ -1,0 +1,82 @@
+[
+  {
+    "id": "4d8680c8d892",
+    "title": "What Happened When My Talking Whiteboard Got Hindsight Memory",
+    "link": "https://medium.com/@varun2004varun2004/what-happened-when-my-talking-whiteboard-got-hindsight-memory-4d8680c8d892",
+    "publishedAt": "2026-09-29T11:21:31.000Z",
+    "categories": [
+      "memories",
+      "ai agent",
+      "architecture",
+      "hindsight"
+    ],
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*Zm8lht3F8v4SZvgaPwHtbg.jpeg",
+    "excerpt": "The first time my whiteboard teacher said “you asked something like this last week, and the part that tripped you up was the squares,” I stopped the lesson and checked the logs to make sure…",
+    "readingMinutes": 8
+  },
+  {
+    "id": "55ace2fc98dc",
+    "title": "Memory in AI Agents: How LangGraph Helps Agents Remember",
+    "link": "https://medium.com/@varun2004varun2004/memory-in-ai-agents-how-langgraph-helps-agents-remember-55ace2fc98dc",
+    "publishedAt": "2026-09-05T08:23:57.000Z",
+    "categories": [
+      "ai memory",
+      "agents memory"
+    ],
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*sL2jSlLTiIlipFCKfG_-yw.png",
+    "excerpt": "Imagine having a conversation with an AI assistant. Today: “My name is Varun. I’m learning LangGraph and I prefer Python.” The assistant responds normally. Tomorrow, you start a new…",
+    "readingMinutes": 6
+  },
+  {
+    "id": "ac7066ca1dad",
+    "title": "Going Hands-On: MQTT, PubSub, Docker & Solace Agent Mesh",
+    "link": "https://medium.com/@varun2004varun2004/going-hands-on-mqtt-pubsub-docker-solace-agent-mesh-ac7066ca1dad",
+    "publishedAt": "2026-02-19T23:42:07.000Z",
+    "categories": [
+      "agentic ai",
+      "cloud computing",
+      "event driven architecture",
+      "message broker",
+      "microservices"
+    ],
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*7eyzeHkxuzVllX7NP-Q1qA.png",
+    "excerpt": "After understanding the theory behind message brokers, I decided to stop reading and start building. That’s where things started getting interesting. Instead of just learning concepts like…",
+    "readingMinutes": 3
+  },
+  {
+    "id": "07264b2c24a0",
+    "title": "Why Modern Systems Use Message Brokers: My Solace Learning Notes",
+    "link": "https://medium.com/@varun2004varun2004/why-modern-systems-use-message-brokers-my-solace-learning-notes-07264b2c24a0",
+    "publishedAt": "2026-01-16T17:53:20.000Z",
+    "categories": [
+      "event driven architecture",
+      "learning journey",
+      "backend development",
+      "software architecture",
+      "microservices"
+    ],
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*L9fZYwqdlvZtEy-TSug0CA.png",
+    "excerpt": "🚀 From Confusion to Clarity: What I Learned About Event-Driven Architecture from Solace When I joined my internship, they told me: “You will be learning Solace and Event-Driven…",
+    "readingMinutes": 3
+  },
+  {
+    "id": "fb19c293d69c",
+    "title": "The Future of Web Development: Trends to Watch in 2025",
+    "link": "https://medium.com/@varun2004varun2004/the-future-of-web-development-trends-to-watch-in-2025-fb19c293d69c",
+    "publishedAt": "2025-03-01T13:38:10.000Z",
+    "categories": [],
+    "thumbnail": "https://cdn-images-1.medium.com/max/1024/1*jEBSFfK7e2RxZVVappnHEA.jpeg",
+    "excerpt": "Web development is evolving at an incredible pace, driven by technological advancements and shifting user expectations. As we step into 2025, developers must stay ahead of emerging trends…",
+    "readingMinutes": 2
+  },
+  {
+    "id": "bd926942b586",
+    "title": "Getting Started with Express.js: Building a Login System with MongoDB",
+    "link": "https://medium.com/@varun2004varun2004/getting-started-with-express-js-building-a-login-system-with-mongodb-bd926942b586",
+    "publishedAt": "2025-02-24T14:18:36.000Z",
+    "categories": [],
+    "thumbnail": null,
+    "excerpt": "Express.js is a minimal and flexible Node.js web application framework that simplifies server-side development. In this blog post, we’ll walk through setting up a simple login page with…",
+    "readingMinutes": 2
+  }
+]

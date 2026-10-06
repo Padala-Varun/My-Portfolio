@@ -1,0 +1,78 @@
+{
+  "fetchedAt": "2026-10-06T16:02:16.488Z",
+  "user": {
+    "login": "Padala-Varun",
+    "url": "https://github.com/Padala-Varun",
+    "followers": 31,
+    "publicRepos": 67
+  },
+  "totalStars": 127,
+  "repos": [
+    {
+      "name": "TrustLens",
+      "url": "https://github.com/Padala-Varun/TrustLens",
+      "description": null,
+      "homepage": "https://trust-lens-psi.vercel.app",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushedAt": "2026-10-06T03:11:01Z"
+    },
+    {
+      "name": "MemoraeAi-1",
+      "url": "https://github.com/Padala-Varun/MemoraeAi-1",
+      "description": null,
+      "homepage": "https://memorae-ai-1-sb4j.vercel.app/",
+      "stars": 3,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushedAt": "2026-08-16T10:10:12Z"
+    },
+    {
+      "name": "sprintflow",
+      "url": "https://github.com/Padala-Varun/sprintflow",
+      "description": null,
+      "homepage": "https://sprintflow-ochre.vercel.app",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "pushedAt": "2026-07-04T09:43:23Z"
+    },
+    {
+      "name": "Major-Project",
+      "url": "https://github.com/Padala-Varun/Major-Project",
+      "description": null,
+      "homepage": "https://major-project-six-gamma.vercel.app",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushedAt": "2026-06-27T03:09:29Z"
+    },
+    {
+      "name": "pdf_qa_bot",
+      "url": "https://github.com/Padala-Varun/pdf_qa_bot",
+      "description": null,
+      "homepage": "https://pdf-qa-bot-1.onrender.com/",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushedAt": "2025-08-12T10:16:43Z"
+    },
+    {
+      "name": "StartUp-Pitch-Agent",
+      "url": "https://github.com/Padala-Varun/StartUp-Pitch-Agent",
+      "description": "Website-URI : ",
+      "homepage": "https://startup-pitch-agent-1.onrender.com/",
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "topics": [],
+      "pushedAt": "2025-07-21T06:34:42Z"
+    }
+  ]
+}
